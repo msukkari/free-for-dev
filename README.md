@@ -571,6 +571,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Code Search and Browsing
 
+  * [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them with a fast, powerful, and modern code search interface.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [Namae](https://namae.dev/) - Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
